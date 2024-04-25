@@ -13,6 +13,6 @@
     "vite": "^5.2.0"
   },
   "dependencies": {
-    "@toaonly/fc-package-ch05-clip05": "^0.0.3"
+    "toaonly_fc_package_ch05_clip05": "^0.0.2"
   }
 }
